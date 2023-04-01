@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625688287383",
+    "project_id": "mastak-d4d74",
+    "storage_bucket": "mastak-d4d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625688287383:android:a8147c81e5de278300f1d2",
+        "android_client_info": {
+          "package_name": "com.example.mastak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625688287383-kdiquafvaog23s382o7j56qlu55ove5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mastak",
+            "certificate_hash": "27a7366b5bf235a6b3671035da57abeffb8baccc"
+          }
+        },
+        {
+          "client_id": "625688287383-llfi4lhvnrp0glmpbl96adpeii8ib98l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNijSH8Jd-iGuda9_Ap_DP_qZrunrj3Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625688287383-llfi4lhvnrp0glmpbl96adpeii8ib98l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
